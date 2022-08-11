@@ -1,0 +1,9 @@
+WEATHER WEBSITE USING HTML, CSS , AND JAVASCRIPT.
+This weather website show you the weather, city, temperature , description , humidity and wind .Also show the weather situation with a background gif.
+This weather website contains four page.
+1) - index.html
+2) - style.css
+3) - script.js
+4) - assests folder for images 
+This website fetch the API of weather and shows the weather situation
+I also work on the readibility of UI.
