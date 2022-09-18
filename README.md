@@ -5,8 +5,8 @@ This weather website contains four page.
 2) - style.css
 3) - script.js
 4) - assests folder for images 
-This website fetch the API of weather and shows the weather situation
-I also work on the readibility of UI. 
+-This website fetch the API of weather and shows the weather situation
+-I also work on the readibility of UI. 
 - Here is my project front page
 ![Screenshot 2022-09-18 111105](https://user-images.githubusercontent.com/107232134/190887564-5ae09502-0106-4c25-9818-4652cb1995e8.png)
 -working-
