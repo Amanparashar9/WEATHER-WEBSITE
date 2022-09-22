@@ -26,8 +26,9 @@ I also work on the readibility of UI.
             )
             .then((response) => response.json())
             .then((data) => this.displayWeather(data));
-    },```
+    },
    
+
 
 # Project Tour
 
