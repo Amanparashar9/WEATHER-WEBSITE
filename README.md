@@ -14,7 +14,8 @@ I also work on the readibility of UI.
 
 # Fetch API
 
- ```let weather = {
+ ```
+ let weather = {
     "apiKey": "535e77e4f70609271824f287e7cc1eec",
     fetchWeather: function(city) {
         fetch(
@@ -27,6 +28,7 @@ I also work on the readibility of UI.
             .then((response) => response.json())
             .then((data) => this.displayWeather(data));
     },
+   ````
    
 
 
