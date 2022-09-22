@@ -38,6 +38,14 @@ I also work on the readibility of UI.
 
 ![Screenshot 2022-09-18 111105](https://user-images.githubusercontent.com/107232134/190887564-5ae09502-0106-4c25-9818-4652cb1995e8.png)
 
-##working
+## working
 
 ![Screenshot 2022-09-18 110948](https://user-images.githubusercontent.com/107232134/190887573-abdaee05-7675-4654-a53d-a8210a82a2b6.png)
+
+# Made By
+
+Aman Parashar 
+
+# LINKEDIN
+
+https://www.linkedin.com/in/aman-parashar-bb541520a/
