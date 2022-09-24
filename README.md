@@ -42,6 +42,9 @@ I also work on the readibility of UI.
 
 ![Screenshot 2022-09-18 110948](https://user-images.githubusercontent.com/107232134/190887573-abdaee05-7675-4654-a53d-a8210a82a2b6.png)
 
+## Loomm video
+https://www.loom.com/share/7a88d8edbc314c7bb6ac8e0a2fb864b5
+
 # Made By
 
 Aman Parashar 
